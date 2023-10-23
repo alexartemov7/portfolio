@@ -1,0 +1,29 @@
+body{
+    background-color: mediumpurple;
+    color:hotpink;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: aqua;
+    font-size: 40px;
+}
+
+section {
+    width: 50%;
+    margin: 0 auto;
+}
+
+section ul {
+    width: 80%;
+}
+section ul li{
+    text-align: left;
+}
+.section1 {
+
+}
+* {
+
+    text-align: center;
+    
+    }
